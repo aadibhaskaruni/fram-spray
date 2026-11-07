@@ -1,0 +1,17 @@
+scenario,policy,gain,seed_spread,yield_pct,pesticide
+"Test weeks, seen patterns",No spray,0.0,0.0,59.94,0.0
+"Test weeks, seen patterns",Context rule (strong),1.71,0.0,68.44,20.46
+"Test weeks, seen patterns",PPO,1.86,0.33,75.18,42.41
+"Test weeks, seen patterns",DQN,-0.6,0.0,84.81,81.95
+"Test weeks, unseen edge",No spray,0.0,0.0,69.78,0.0
+"Test weeks, unseen edge",Context rule (strong),0.78,0.0,75.14,14.38
+"Test weeks, unseen edge",PPO,0.4,0.16,81.18,36.01
+"Test weeks, unseen edge",DQN,-3.43,0.0,88.0,72.32
+"Test weeks, bad sensor (20%)",No spray,0.0,0.0,59.94,0.0
+"Test weeks, bad sensor (20%)",Context rule (strong),1.16,0.0,68.89,22.39
+"Test weeks, bad sensor (20%)",PPO,1.51,0.17,76.79,46.6
+"Test weeks, bad sensor (20%)",DQN,-3.84,0.0,87.19,90.18
+Harsh weather (train weeks),No spray,0.0,0.0,59.43,0.0
+Harsh weather (train weeks),Context rule (strong),1.18,0.0,65.5,13.15
+Harsh weather (train weeks),PPO,0.73,0.31,71.74,34.19
+Harsh weather (train weeks),DQN,-1.35,0.0,79.03,64.1

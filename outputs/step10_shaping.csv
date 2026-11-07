@@ -1,0 +1,21 @@
+scenario,group,gain,seed_spread,yield_pct,pesticide
+"Test weeks, seen patterns",Tuned threshold,0.74,0.0,78.96,49.18
+"Test weeks, seen patterns",Context rule (strong),1.59,0.0,70.44,17.41
+"Test weeks, seen patterns",PPO shaping 0.3 (600k),1.62,0.33,76.57,38.44
+"Test weeks, seen patterns",PPO shaping 0.1 (300k),1.09,0.08,72.32,27.12
+"Test weeks, seen patterns",PPO shaping 0.0 (300k),0.1,0.03,64.76,5.26
+"Test weeks, unseen edge",Tuned threshold,-0.64,0.0,82.65,44.0
+"Test weeks, unseen edge",Context rule (strong),0.75,0.0,75.25,14.47
+"Test weeks, unseen edge",PPO shaping 0.3 (600k),0.36,0.16,81.44,36.46
+"Test weeks, unseen edge",PPO shaping 0.1 (300k),0.12,0.04,77.02,24.4
+"Test weeks, unseen edge",PPO shaping 0.0 (300k),0.0,0.02,70.81,3.47
+"Test weeks, bad sensor (20%)",Tuned threshold,-0.47,0.0,81.73,57.17
+"Test weeks, bad sensor (20%)",Context rule (strong),0.95,0.0,71.12,20.26
+"Test weeks, bad sensor (20%)",PPO shaping 0.3 (600k),1.16,0.16,78.21,42.97
+"Test weeks, bad sensor (20%)",PPO shaping 0.1 (300k),1.06,0.07,73.3,29.62
+"Test weeks, bad sensor (20%)",PPO shaping 0.0 (300k),0.07,0.0,64.38,3.94
+Harsh weather (train weeks),Tuned threshold,-0.94,0.0,73.13,34.87
+Harsh weather (train weeks),Context rule (strong),0.76,0.0,66.0,7.71
+Harsh weather (train weeks),PPO shaping 0.3 (600k),0.0,0.26,71.1,25.88
+Harsh weather (train weeks),PPO shaping 0.1 (300k),-0.16,0.04,67.9,17.64
+Harsh weather (train weeks),PPO shaping 0.0 (300k),-0.08,0.06,63.11,2.92

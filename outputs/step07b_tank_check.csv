@@ -1,0 +1,49 @@
+tank,scenario,policy,gain,gain_se,yield_pct,pesticide,unnecessary_pct
+45,seen patterns,No spray,0.0,0.0,63.2,0.0,0.0
+45,seen patterns,Fixed rate (medium),-1.36,0.39,81.31,44.67,75.52
+45,seen patterns,Tuned threshold,1.54,0.36,79.31,44.88,12.46
+45,seen patterns,Oracle (cheats),3.71,0.35,82.03,44.99,5.66
+45,unseen edge,No spray,0.0,0.0,69.87,0.0,0.0
+45,unseen edge,Fixed rate (medium),-3.21,0.25,86.76,44.67,84.03
+45,unseen edge,Tuned threshold,-0.44,0.2,83.4,44.58,14.37
+45,unseen edge,Oracle (cheats),1.61,0.26,86.14,44.97,8.0
+45,harsh weather,No spray,0.0,0.0,62.26,0.0,0.0
+45,harsh weather,Fixed rate (medium),-2.23,0.31,76.43,36.96,57.14
+45,harsh weather,Tuned threshold,-0.64,0.27,73.74,34.87,11.12
+45,harsh weather,Oracle (cheats),0.75,0.37,75.95,36.06,5.85
+70,seen patterns,No spray,0.0,0.0,63.2,0.0,0.0
+70,seen patterns,Fixed rate (medium),-3.94,0.67,87.81,70.0,69.21
+70,seen patterns,Tuned threshold,0.75,0.32,78.96,49.13,9.66
+70,seen patterns,Oracle (cheats),2.48,0.3,80.3,46.01,5.45
+70,unseen edge,No spray,0.0,0.0,69.87,0.0,0.0
+70,unseen edge,Fixed rate (medium),-7.75,0.35,91.54,70.0,81.17
+70,unseen edge,Tuned threshold,-0.64,0.18,82.65,44.0,11.98
+70,unseen edge,Oracle (cheats),1.04,0.21,84.32,42.04,8.22
+70,harsh weather,No spray,0.0,0.0,62.26,0.0,0.0
+70,harsh weather,Fixed rate (medium),-5.16,0.61,80.04,54.93,53.62
+70,harsh weather,Tuned threshold,-0.94,0.21,73.13,34.87,10.15
+70,harsh weather,Oracle (cheats),0.26,0.26,74.23,33.39,6.35
+100,seen patterns,No spray,0.0,0.0,63.2,0.0,0.0
+100,seen patterns,Fixed rate (medium),-9.35,0.85,90.18,97.42,64.89
+100,seen patterns,Tuned threshold,0.74,0.32,78.96,49.18,9.66
+100,seen patterns,Oracle (cheats),2.48,0.3,80.3,46.01,5.45
+100,unseen edge,No spray,0.0,0.0,69.87,0.0,0.0
+100,unseen edge,Fixed rate (medium),-14.7,0.41,93.54,98.09,79.95
+100,unseen edge,Tuned threshold,-0.64,0.18,82.65,44.0,11.98
+100,unseen edge,Oracle (cheats),1.04,0.21,84.32,42.04,8.22
+100,harsh weather,No spray,0.0,0.0,62.26,0.0,0.0
+100,harsh weather,Fixed rate (medium),-8.45,1.05,81.09,68.49,51.71
+100,harsh weather,Tuned threshold,-0.94,0.21,73.13,34.87,10.15
+100,harsh weather,Oracle (cheats),0.26,0.26,74.23,33.39,6.35
+150,seen patterns,No spray,0.0,0.0,63.2,0.0,0.0
+150,seen patterns,Fixed rate (medium),-10.91,0.94,90.29,103.58,64.58
+150,seen patterns,Tuned threshold,0.74,0.32,78.96,49.18,9.66
+150,seen patterns,Oracle (cheats),2.48,0.3,80.3,46.01,5.45
+150,unseen edge,No spray,0.0,0.0,69.87,0.0,0.0
+150,unseen edge,Fixed rate (medium),-17.23,0.53,93.78,108.71,77.19
+150,unseen edge,Tuned threshold,-0.64,0.18,82.65,44.0,11.98
+150,unseen edge,Oracle (cheats),1.04,0.21,84.32,42.04,8.22
+150,harsh weather,No spray,0.0,0.0,62.26,0.0,0.0
+150,harsh weather,Fixed rate (medium),-9.68,1.3,81.18,72.71,51.3
+150,harsh weather,Tuned threshold,-0.94,0.21,73.13,34.87,10.15
+150,harsh weather,Oracle (cheats),0.26,0.26,74.23,33.39,6.35

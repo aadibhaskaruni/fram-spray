@@ -1,0 +1,24 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Local environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+*credentials*.json
+*secrets*.json
+
+# OS/editor/temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp

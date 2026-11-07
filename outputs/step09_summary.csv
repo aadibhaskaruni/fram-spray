@@ -1,0 +1,5 @@
+scenario,ppo_gain_mean,ppo_gain_std_over_seeds,context_gain,ppo_minus_context,pesticide_ppo,pesticide_context,verdict
+"Test weeks, seen patterns",1.62,0.33,1.59,0.03,38.44,17.41,mixed / no clear difference
+"Test weeks, unseen edge",0.36,0.16,0.75,-0.38,36.46,14.47,mixed / no clear difference
+"Test weeks, bad sensor (20%)",1.16,0.16,0.95,0.21,42.97,20.26,mixed / no clear difference
+Harsh weather (train weeks),0.0,0.26,0.76,-0.76,25.88,7.71,PPO worse (all seeds)
