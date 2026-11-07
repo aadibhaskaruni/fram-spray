@@ -16,6 +16,7 @@ This is a **simulation research prototype**, not a real sprayer controller or fi
 - `models/` — supplied PPO/DQN model checkpoints.
 - `outputs/` — experiment tables, learning curves, figures, and HTML demos.
 - `graphs/` — report-style graph assets. Check the data provenance before treating every graph as a measured output; the supplied plotting script hard-codes some values and includes a synthetic regret panel.
+- `docs/research_report.pdf` — submitted research report, included as provided.
 - `docs/rl_spraying_project_beginner_guide.pdf` and `.docx` — detailed walkthrough in PDF and editable Word formats.
 - `docs/adaptive_farm_spraying_mdp_diagram.drawio` — editable diagrams.net project MDP/POMDP interaction loop.
 
